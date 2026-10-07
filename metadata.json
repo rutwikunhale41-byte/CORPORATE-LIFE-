@@ -1,0 +1,6 @@
+{
+  "name": "CORPORATE LIFE AI — MNC SIMULATOR",
+  "description": "A realistic corporate workplace simulation game powered by AI. Navigate MNC politics, multi-person meetings, incidents, tasks, emails, and career progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
